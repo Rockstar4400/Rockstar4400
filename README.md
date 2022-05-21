@@ -27,7 +27,8 @@
 ## 🧑 About me:
 
 <p>
-I am working as a <b>Web</b> & <b>Mobile developer</b> for 7 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
+Experienced Software Engineer with a demonstrated history of working in the information technology and services industry.</br>
+Skilled in Javascript, Java, C#, Perl and C++. Strong engineering professional with a Full Stack Web Development Certification focused in Computer Software Engineering from freeCodeCamp. 
 </p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
