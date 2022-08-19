@@ -1,5 +1,5 @@
 <h4 align='center'>
-  Software Engineer | FullStack Engineer
+  Software Engineer | Full Stack Developer
 </h4>
 
 <div>
